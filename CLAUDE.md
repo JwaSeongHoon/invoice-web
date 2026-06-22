@@ -2,7 +2,11 @@
 
 **invoice-web**은 Notion 기반 견적서를 고유 링크(`/q/[pageId]`)로 공유하고 PDF로 다운로드할 수 있는 MVP 서비스입니다.
 
-상세 프로젝트 요구사항은 `@/docs/PRD.md` 참조
+상세 프로젝트 요구사항은 `@docs/PRD.md` 참조
+
+# Project Context
+ - PRD 문서: @docs/PRD.md
+ - 개발 로드맵: @docs/ROADMAP.md
 
 ## 핵심 기술 스택
 
@@ -16,13 +20,13 @@
 
 ## 개발 가이드
 
-- **개발 로드맵**: `@/docs/ROADMAP.md`
-- **프로젝트 요구사항**: `@/docs/PRD.md`
-- **프로젝트 구조**: `@/docs/guides/project-structure.md`
-- **스타일링 가이드**: `@/docs/guides/styling-guide.md`
-- **컴포넌트 패턴**: `@/docs/guides/component-patterns.md`
-- **Next.js 15.5.3 가이드**: `@/docs/guides/nextjs-15.md`
-- **폼 처리 가이드**: `@/docs/guides/forms-react-hook-form.md`
+- **개발 로드맵**: `@docs/ROADMAP.md`
+- **프로젝트 요구사항**: `@docs/PRD.md`
+- **프로젝트 구조**: `@docs/guides/project-structure.md`
+- **스타일링 가이드**: `@docs/guides/styling-guide.md`
+- **컴포넌트 패턴**: `@docs/guides/component-patterns.md`
+- **Next.js 15.5.3 가이드**: `@docs/guides/nextjs-15.md`
+- **폼 처리 가이드**: `@docs/guides/forms-react-hook-form.md`
 
 ## 자주 사용하는 명령어
 
